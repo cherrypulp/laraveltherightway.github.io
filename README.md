@@ -1,4 +1,6 @@
-# Laravel: Best Practices
+# Laravel Best Practices of Cherry Pulp
+
+This project is a fork of https://github.com/laraveltherightway/laraveltherightway.github.io who doesn't seems to be maintened and alive.
 
 ## Overview
 
