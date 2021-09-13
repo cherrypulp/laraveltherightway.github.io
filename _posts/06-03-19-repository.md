@@ -12,6 +12,9 @@ The idea with this pattern is to have a generic abstract way for the app to work
 
 ### When reading/writing data, it is RECOMMENDED to wrap it into Repository Object
 
+We use this helper package to help us create our Repository
+
+[https://gitlab.com/cherrypulp/libraries/laravel-repository](https://gitlab.com/cherrypulp/libraries/laravel-repository)
 
 ```
 
